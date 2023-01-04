@@ -4,6 +4,10 @@ bug fixed by Akshaya
 current release new code branch
 bug fixed2 by Akshaya
 
+<<<<<<< HEAD
 
 new code released
 
+=======
+bug fixed3 by Akshaya
+>>>>>>> branch3
