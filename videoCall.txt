@@ -1,3 +1,7 @@
 videoCall feature release 
 bug fixed by Akshaya
+<<<<<<< HEAD
 current release new code branch3
+=======
+bug fixed2 by Akshaya
+>>>>>>> branch2
